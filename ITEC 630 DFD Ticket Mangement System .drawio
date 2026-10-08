@@ -754,7 +754,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="whVpYaKgBZi-uAwFVTGv-162" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-160" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Refund Requests" vertex="1">
+        <mxCell id="whVpYaKgBZi-uAwFVTGv-162" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-160" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Refunds to be Issued" vertex="1">
           <mxGeometry relative="1" x="0.0843" y="3" as="geometry">
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
