@@ -45,7 +45,7 @@
         </mxCell>
         <mxCell id="whVpYaKgBZi-uAwFVTGv-155" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-154" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="&lt;div&gt;Event Information&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.5923" y="-1" as="geometry">
-            <mxPoint x="1" y="24" as="offset" />
+            <mxPoint x="1" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MgBBsUdsWr7HNPPOiTlU-27" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Merchant" vertex="1">
@@ -699,7 +699,7 @@
         </mxCell>
         <mxCell id="whVpYaKgBZi-uAwFVTGv-148" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-147" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Merchant Cancellation Status" vertex="1">
           <mxGeometry relative="1" x="-0.7556" y="-2" as="geometry">
-            <mxPoint x="39" as="offset" />
+            <mxPoint x="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whVpYaKgBZi-uAwFVTGv-136" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;6.0: Cancel Ticket&lt;/div&gt;" vertex="1">
