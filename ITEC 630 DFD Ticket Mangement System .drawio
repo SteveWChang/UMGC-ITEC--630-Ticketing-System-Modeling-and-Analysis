@@ -55,7 +55,7 @@
             <mxPoint x="320" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="whVpYaKgBZi-uAwFVTGv-35" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cancellation Request" vertex="1">
+        <mxCell id="whVpYaKgBZi-uAwFVTGv-35" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket Cancellation Request" vertex="1">
           <mxGeometry relative="1" x="-0.16" as="geometry">
             <mxPoint x="17" as="offset" />
           </mxGeometry>
@@ -349,7 +349,7 @@
         <mxCell id="whVpYaKgBZi-uAwFVTGv-36" edge="1" parent="1" source="MgBBsUdsWr7HNPPOiTlU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MgBBsUdsWr7HNPPOiTlU-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="whVpYaKgBZi-uAwFVTGv-37" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cancellation Information" vertex="1">
+        <mxCell id="whVpYaKgBZi-uAwFVTGv-37" connectable="0" parent="whVpYaKgBZi-uAwFVTGv-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket Cancellation Request" vertex="1">
           <mxGeometry relative="1" x="-0.1535" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -420,7 +420,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MgBBsUdsWr7HNPPOiTlU-68" connectable="0" parent="MgBBsUdsWr7HNPPOiTlU-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Customer and Ticket&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" vertex="1">
+        <mxCell id="MgBBsUdsWr7HNPPOiTlU-68" connectable="0" parent="MgBBsUdsWr7HNPPOiTlU-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Customer Ticket&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.2637" y="1" as="geometry">
             <mxPoint x="-32" as="offset" />
           </mxGeometry>
