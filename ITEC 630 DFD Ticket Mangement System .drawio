@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suIUiGw5VHROWgxkOOHS">
-    <mxGraphModel dx="1187" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,9 +591,9 @@
             <mxPoint x="1140" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRxAOWCJ5pVArGV-G5KB-231" connectable="0" parent="aRxAOWCJ5pVArGV-G5KB-230" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Details&lt;/div&gt;" vertex="1">
+        <mxCell id="aRxAOWCJ5pVArGV-G5KB-231" connectable="0" parent="aRxAOWCJ5pVArGV-G5KB-230" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Cancelled&lt;/div&gt;&lt;div&gt;Tickets&lt;/div&gt;&lt;div&gt;Status&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0937" y="-1" as="geometry">
-            <mxPoint x="-1" y="-38" as="offset" />
+            <mxPoint x="-11" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="whVpYaKgBZi-uAwFVTGv-136" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;7.0: Cancel Ticket&lt;/div&gt;" vertex="1">
@@ -775,7 +775,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRxAOWCJ5pVArGV-G5KB-233" connectable="0" parent="aRxAOWCJ5pVArGV-G5KB-232" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Cancelled&lt;/div&gt;&lt;div&gt;Tickets&lt;/div&gt;&lt;div&gt;Status&lt;/div&gt;" vertex="1">
+        <mxCell id="aRxAOWCJ5pVArGV-G5KB-233" connectable="0" parent="aRxAOWCJ5pVArGV-G5KB-232" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Details&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1225" as="geometry">
             <mxPoint y="17" as="offset" />
           </mxGeometry>
