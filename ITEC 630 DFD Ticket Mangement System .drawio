@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="suIUiGw5VHROWgxkOOHS">
-    <mxGraphModel dx="1712" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1442,29 +1442,109 @@
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;5.4: Notify Merchants of Ticket Purchase&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1460" y="2570" as="geometry" />
         </mxCell>
-        <mxCell id="BVcUyrIi00ZKbtNHo-5z-109" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;6.1: Receive Cancellation Request&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="1895" y="275" as="geometry" />
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-122" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-118">
+          <mxGeometry relative="1" x="0.3071" as="geometry">
+            <Array as="points">
+              <mxPoint x="2330" y="2475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-125" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Event Cancellation" vertex="1">
+          <mxGeometry relative="1" x="-0.3241" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-131" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BVcUyrIi00ZKbtNHo-5z-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-132" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-131" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Attendee Contact Information" vertex="1">
+          <mxGeometry relative="1" x="-0.2322" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-136" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-113">
+          <mxGeometry relative="1" x="-0.0849" as="geometry">
+            <Array as="points">
+              <mxPoint x="2310" y="2425" />
+              <mxPoint x="2310" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-137" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-136" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cancellation Request" vertex="1">
+          <mxGeometry relative="1" x="0.3236" as="geometry">
+            <mxPoint x="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-109" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;6.1: Receive Event Cancellation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="2025" y="2420" as="geometry" />
         </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-110" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="D3: Events Database" vertex="1">
-          <mxGeometry height="30" width="100" x="1880" y="530" as="geometry" />
+          <mxGeometry height="30" width="100" x="2285" y="2685" as="geometry" />
         </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-116" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-138" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-116" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Event Cancellation" vertex="1">
+          <mxGeometry relative="1" x="-0.023" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-111" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Merchant" vertex="1">
-          <mxGeometry height="50" width="100" x="1900" y="120" as="geometry" />
+          <mxGeometry height="50" width="100" x="2030" y="2265" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-128" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="BVcUyrIi00ZKbtNHo-5z-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-129" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket Holder List" vertex="1">
+          <mxGeometry relative="1" x="-0.39" y="-1" as="geometry">
+            <mxPoint x="-1" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-112" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="D4: Tickets" vertex="1">
-          <mxGeometry height="30" width="100" x="2140" y="530" as="geometry" />
+          <mxGeometry height="30" width="100" x="1845" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-113" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;7.0: Cancel Ticket&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="2030" y="720" as="geometry" />
+          <mxGeometry height="50" width="100" x="2330" y="2395" as="geometry" />
         </mxCell>
         <mxCell id="BVcUyrIi00ZKbtNHo-5z-114" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Customer" vertex="1">
-          <mxGeometry height="50" width="110" x="1800" y="610" as="geometry" />
+          <mxGeometry height="50" width="110" x="2025" y="2675" as="geometry" />
         </mxCell>
-        <mxCell id="BVcUyrIi00ZKbtNHo-5z-117" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="&lt;div&gt;6.2:&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="1910" y="430" as="geometry" />
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-123" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-109">
+          <mxGeometry relative="1" x="0.0054" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="2450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-130" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-123" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="List of Event Attendees" vertex="1">
+          <mxGeometry relative="1" x="0.2004" y="-1" as="geometry">
+            <mxPoint x="17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-117" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="6.2: Pull Tickets for Event" vertex="1">
+          <mxGeometry height="60" width="110" x="1840" y="2545" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-126" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-127" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-126" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cancelled Event Status" vertex="1">
+          <mxGeometry relative="1" x="0.0796" y="3" as="geometry">
+            <mxPoint x="12" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-118" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="6.3: Change Status of Event to Cancelled" vertex="1">
+          <mxGeometry height="70" width="130" x="2270" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-133" edge="1" parent="1" source="BVcUyrIi00ZKbtNHo-5z-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BVcUyrIi00ZKbtNHo-5z-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-134" connectable="0" parent="BVcUyrIi00ZKbtNHo-5z-133" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Event Cancellation" vertex="1">
+          <mxGeometry relative="1" x="-0.2625" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVcUyrIi00ZKbtNHo-5z-119" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="6.4: Notify Ticket Holders" vertex="1">
+          <mxGeometry height="60" width="110" x="2025" y="2555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
