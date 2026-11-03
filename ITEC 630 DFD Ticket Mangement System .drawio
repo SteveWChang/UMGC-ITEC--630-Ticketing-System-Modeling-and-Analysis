@@ -1038,7 +1038,7 @@
             <mxPoint x="400" y="995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xnkr_7Dek6jDK7aBtFs7-29" connectable="0" parent="Xnkr_7Dek6jDK7aBtFs7-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket information" vertex="1">
+        <mxCell id="Xnkr_7Dek6jDK7aBtFs7-29" connectable="0" parent="Xnkr_7Dek6jDK7aBtFs7-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket Information" vertex="1">
           <mxGeometry relative="1" x="-0.0088" y="-3" as="geometry">
             <mxPoint x="-12" y="-3" as="offset" />
           </mxGeometry>
@@ -1557,6 +1557,11 @@
               <mxPoint x="550" y="890" />
               <mxPoint x="550" y="690" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6nvvu6u7VHCh3MDZ6MrL-1" connectable="0" parent="NR52ovqwoLuRrLCtCA1e-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Payment&lt;div&gt;Rejection&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1407" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NR52ovqwoLuRrLCtCA1e-8" edge="1" parent="1" source="NR52ovqwoLuRrLCtCA1e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NR52ovqwoLuRrLCtCA1e-15">
@@ -2321,7 +2326,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VJJJJH840vksnpbsVPDQ" name="8.0 Check-in to Event">
+  <diagram id="VJJJJH840vksnpbsVPDQ" name="8.0 Check-in to Event Level 2">
     <mxGraphModel dx="2054" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2332,12 +2337,6 @@
         <mxCell id="EGXszHXGBEOhE2ogAGRh-2" parent="EGXszHXGBEOhE2ogAGRh-1" style="html=1;dashed=0;whiteSpace=wrap;" value="Customer" vertex="1">
           <mxGeometry height="70" width="110.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="EGXszHXGBEOhE2ogAGRh-3" edge="1" parent="EGXszHXGBEOhE2ogAGRh-1" source="EGXszHXGBEOhE2ogAGRh-2" style="endArrow=none;html=1;rounded=0;entryX=1.002;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.827;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" target="EGXszHXGBEOhE2ogAGRh-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="165" y="532" as="sourcePoint" />
-            <mxPoint x="110.00000000000001" y="98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="du8fILURRI5YPZFWWb5n-1" edge="1" parent="1" source="du8fILURRI5YPZFWWb5n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q9uth-jRvGkE4nv-oxjT-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2346,7 +2345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="du8fILURRI5YPZFWWb5n-2" connectable="0" parent="du8fILURRI5YPZFWWb5n-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket information" vertex="1">
+        <mxCell id="du8fILURRI5YPZFWWb5n-2" connectable="0" parent="du8fILURRI5YPZFWWb5n-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ticket Information" vertex="1">
           <mxGeometry relative="1" x="-0.0088" y="-3" as="geometry">
             <mxPoint x="-12" y="-3" as="offset" />
           </mxGeometry>
